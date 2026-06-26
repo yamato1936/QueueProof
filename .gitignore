@@ -1,0 +1,8 @@
+.env.local
+node_modules
+.next
+out
+tsconfig.tsbuildinfo
+npm-debug.log*
+aws/
+awscliv2.zip
